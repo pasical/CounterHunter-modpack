@@ -1,0 +1,687 @@
+{
+  "name": "CounterHunter 1.21.4 online",
+  "author": "Pasicalx",
+  "version": "beta20250402",
+  "description": "",
+  "fileApi": "https://github.com/pasical/CounterHunter-modpack/blob/main",
+  "files": [
+    {
+      "path": "config/.puzzle_cache/mojangstudios.png",
+      "hash": "dba50ab92eb72e3b1e6721ca702fb4c4c5479bdf"
+    },
+    {
+      "path": "config/bettergrass.json5",
+      "hash": "8282b2cb8ff302f7225373258a72767fd5bedc09"
+    },
+    {
+      "path": "config/betterpingdisplay.json",
+      "hash": "51a7efebd32597a49b4c6f151b36845182ab339a"
+    },
+    {
+      "path": "config/capes.json5",
+      "hash": "1b7927062ee06d00b20b1424dc81e07798beb543"
+    },
+    {
+      "path": "config/chat_heads.json5",
+      "hash": "54fb55039959a3a24af55fc36792534696b61668"
+    },
+    {
+      "path": "config/citresewn.json",
+      "hash": "39c9ef73ac33e40c3ca15cd7abc0bf1275be32e8"
+    },
+    {
+      "path": "config/collective.json5",
+      "hash": "dd275eba23d25c50bea5ca96f5243ec1782fc435"
+    },
+    {
+      "path": "config/continuity.json",
+      "hash": "a4a92925d39f3fea97ba0934563219c98d622c7f"
+    },
+    {
+      "path": "config/controlify.json",
+      "hash": "8cabd2d8352aa38a8698d6a986284ca3723c444d"
+    },
+    {
+      "path": "config/CoroUtil/General.toml",
+      "hash": "1233bc5e9b76ae23493ad31db26e92b7da397270"
+    },
+    {
+      "path": "config/cubes-without-borders.json",
+      "hash": "e0dccc5cd4ff4c2845f64737c2add5597264d7d6"
+    },
+    {
+      "path": "config/debugify.json",
+      "hash": "3740692692d361525cbac9c561c413e56055faec"
+    },
+    {
+      "path": "config/dynamic_fps.json",
+      "hash": "5eefe6f97c9e9c1981702f9f6cf9829559a8a8dc"
+    },
+    {
+      "path": "config/enhanced_bes.properties",
+      "hash": "a6a9a13c12a04cfaa60bbfee2d3fa4e4bb259faf"
+    },
+    {
+      "path": "config/entityculling.json",
+      "hash": "81f39c69f6c21491e4632fffea5d37122e90b773"
+    },
+    {
+      "path": "config/entity_model_features.json",
+      "hash": "f8fcfbfdac16a4ccb355d936fea6194a827559fc"
+    },
+    {
+      "path": "config/entity_texture_features.json",
+      "hash": "c0195d918e8a753247ce81b8604864030c003102"
+    },
+    {
+      "path": "config/etf_warnings.json",
+      "hash": "1573fc320a363b30a1a5e4cae1d4596ec177085d"
+    },
+    {
+      "path": "config/fabric/indigo-renderer.properties",
+      "hash": "87e284898d14d8cd3e13798c2656bd5d0ef9bd5f"
+    },
+    {
+      "path": "config/fabric_loader_dependencies.json",
+      "hash": "e0b358de5d3f292e46019d72c418c4b067f6e176"
+    },
+    {
+      "path": "config/fabrishot.properties",
+      "hash": "e87106195458b9c25dada790d80e863c2d8363c2"
+    },
+    {
+      "path": "config/fastquit.toml",
+      "hash": "7ed819e0bb5eabeecbb698a705eeeed3f4721fa4"
+    },
+    {
+      "path": "config/ferritecore.mixin.properties",
+      "hash": "69e297dba67843f367101f4efc5d27bbcda27c1e"
+    },
+    {
+      "path": "config/forgeconfigapiport.toml",
+      "hash": "945e388c4165af7ad3ffa3bfcd89c1f0ccb14451"
+    },
+    {
+      "path": "config/gammautils.json",
+      "hash": "0eaa0f4da1f20902e6fa49bb136031803d015e31"
+    },
+    {
+      "path": "config/imblocker.json",
+      "hash": "177b53a934d2d9be1cfbd24aee2f72f561d7a075"
+    },
+    {
+      "path": "config/immediatelyfast.json",
+      "hash": "a1c75d786b4e9bbbec0474a062c02253995a073a"
+    },
+    {
+      "path": "config/inventoryhud.json",
+      "hash": "af45c3dbaaa9d1aae76c096da406b936d65094d7"
+    },
+    {
+      "path": "config/iris-excluded.json",
+      "hash": "20bd3420b5c911402ac289c154b56ac1dd8f84ba"
+    },
+    {
+      "path": "config/iris.properties",
+      "hash": "898de9fb8599523cee87ea26e901bc0a02326946"
+    },
+    {
+      "path": "config/isxander-main-menu-credits.json",
+      "hash": "a76da9d9a53df54de0040e6c089b655604a62ae0"
+    },
+    {
+      "path": "config/lambdynlights.toml",
+      "hash": "543acdec1617455b6e46d1b8edfa2273f9cbad0d"
+    },
+    {
+      "path": "config/languagereload.json",
+      "hash": "7294ca248a8276bb1e7365dccd31a97dc193dfe2"
+    },
+    {
+      "path": "config/lithium.properties",
+      "hash": "38f2993a7d80d0a6a25eb6182bd6898af24a16eb"
+    },
+    {
+      "path": "config/midnightlib.json",
+      "hash": "7f635f0ca44379ba78c7390728700e36e7e0c050"
+    },
+    {
+      "path": "config/modelfix-client.json",
+      "hash": "0bfe4e2f2bf99c0cef5502d3bccfad608076d750"
+    },
+    {
+      "path": "config/modernfix-mixins.properties",
+      "hash": "3ace8840c66edea990480583439937f4cbcec8e8"
+    },
+    {
+      "path": "config/modmenu.json",
+      "hash": "28b9cf9348133109b055ae9fbf5392d527fa7d0c"
+    },
+    {
+      "path": "config/moreculling.toml",
+      "hash": "b98761cffd95b62467f782725de8dcfd62f68991"
+    },
+    {
+      "path": "config/NoChatReports/NCR-Client.json",
+      "hash": "6ee8e2c7e9558229fab59b83909954fe6cf84271"
+    },
+    {
+      "path": "config/NoChatReports/NCR-Common.json",
+      "hash": "030b57e4e15fef997ad0097b8f94037f5f70f64a"
+    },
+    {
+      "path": "config/NoChatReports/NCR-Encryption.json",
+      "hash": "6631ad4df4b0fbd5e05ead70b604e652d16dd6f0"
+    },
+    {
+      "path": "config/NoChatReports/NCR-ServerPreferences.json",
+      "hash": "3c04f45c210048b5e722b294dcc0d9f073374160"
+    },
+    {
+      "path": "config/NoChatReports/README.md",
+      "hash": "75d98286a0aa3e180708523c8f582a2d23e590b3"
+    },
+    {
+      "path": "config/PaginatedAdvancements.json5",
+      "hash": "1c8dd223ef5aa0e88e8a53d3d6dc059ce83cf16d"
+    },
+    {
+      "path": "config/puzzle.json",
+      "hash": "3747f18be99d38d26c8368551981eedb9792cc34"
+    },
+    {
+      "path": "config/replaymod.json",
+      "hash": "b42022880ecc9381bc287c73d6f91aa46ebf1e01"
+    },
+    {
+      "path": "config/rrls-1.toml.bak",
+      "hash": "793953188370407e2937685590fc09db280fb6fe"
+    },
+    {
+      "path": "config/rrls.toml",
+      "hash": "9eaaf526cbb9d996a7a2637cf47ccb99252b8f8c"
+    },
+    {
+      "path": "config/simplehudenhanced.toml",
+      "hash": "e40d062a446a7a04bc0513b6de10df19bbfe19f4"
+    },
+    {
+      "path": "config/simplemenu/background/background.png",
+      "hash": "8adc9fc3e3bc736d8aa3f506c64d4cc172d27ad3"
+    },
+    {
+      "path": "config/simplemenu/icon/1.png",
+      "hash": "27cf1dfbde6fb255f921a39d862e9af577a5fc7a"
+    },
+    {
+      "path": "config/simplemenu/icon/2.png",
+      "hash": "7df209482c1912f98bd966ec3dbb00b03b04d323"
+    },
+    {
+      "path": "config/simplemenu/icon/icon_16x16.png",
+      "hash": "27cf1dfbde6fb255f921a39d862e9af577a5fc7a"
+    },
+    {
+      "path": "config/simplemenu/icon/icon_32x32.png",
+      "hash": "7df209482c1912f98bd966ec3dbb00b03b04d323"
+    },
+    {
+      "path": "config/simplemenu/logo/edition.png",
+      "hash": "f3adc80a357370e57deca3fb424f8748828f96c9"
+    },
+    {
+      "path": "config/simplemenu/logo/logo.png",
+      "hash": "b1145486e444b2f5e7faf3dc40b0232aa0675480"
+    },
+    {
+      "path": "config/simplemenu.json5",
+      "hash": "f62c6f0b5efd71c8af728e05c9fa4b66a443b6d1"
+    },
+    {
+      "path": "config/sodium-extra-options.json",
+      "hash": "be373ecefdc2b250a4f61c0b6c5231d62fda4493"
+    },
+    {
+      "path": "config/sodium-extra.properties",
+      "hash": "e90b2514226a0624cf42112b42477f9872598b89"
+    },
+    {
+      "path": "config/sodium-fingerprint.json",
+      "hash": "fedc6a4ea1d910df9850ce31ad1cac8a33607312"
+    },
+    {
+      "path": "config/sodium-mixins.properties",
+      "hash": "5455463ee999b945c1cff8ae90f2b705e19fb86c"
+    },
+    {
+      "path": "config/sodium-options.json",
+      "hash": "206fb6331bd8529208ae0e5b81fddd265a7dee48"
+    },
+    {
+      "path": "config/sound_physics_remastered/allowed_sounds.properties",
+      "hash": "d3096b9c8ffc34de949e9138b9abac05866e5ab3"
+    },
+    {
+      "path": "config/sound_physics_remastered/occlusion.properties",
+      "hash": "63e8843f243c38bc7aa44d99ce4f562991890350"
+    },
+    {
+      "path": "config/sound_physics_remastered/reflectivity.properties",
+      "hash": "95feb43eb67757038518212b08739cb39bb9763e"
+    },
+    {
+      "path": "config/sound_physics_remastered/soundphysics.properties",
+      "hash": "8c28f59d92aacab3d3c3c541326039166fad00b7"
+    },
+    {
+      "path": "config/watut-client-1.toml.bak",
+      "hash": "91e098fac9ef69de88714de77c4f4e157d77e13c"
+    },
+    {
+      "path": "config/watut-client.toml",
+      "hash": "a548ff860a1bec8ddd49421c34f0b89c02e63742"
+    },
+    {
+      "path": "config/watut-common.toml",
+      "hash": "d137f7e0a4a4a3f8f54af81da6a74342bb2d51e3"
+    },
+    {
+      "path": "config/watut-item-arm-adjustments.json",
+      "hash": "2cfa88c57c35df26af1391acb7f2f8eb8abd53ab"
+    },
+    {
+      "path": "config/watut-server.toml",
+      "hash": "4bd40ac86d55cbf055d0075ccbe7388171723ae3"
+    },
+    {
+      "path": "config/yacl.json5",
+      "hash": "ef6eac77bc8ec50971872b820002db7227ece802"
+    },
+    {
+      "path": "config/yosbr/config/capes.json5",
+      "hash": "1b7927062ee06d00b20b1424dc81e07798beb543"
+    },
+    {
+      "path": "config/yosbr/config/citresewn.json",
+      "hash": "39c9ef73ac33e40c3ca15cd7abc0bf1275be32e8"
+    },
+    {
+      "path": "config/yosbr/config/controlify.json",
+      "hash": "0662cd0133bcd29f7471483387e2da15bccdc1ba"
+    },
+    {
+      "path": "config/yosbr/config/debugify.json",
+      "hash": "3740692692d361525cbac9c561c413e56055faec"
+    },
+    {
+      "path": "config/yosbr/config/dynamic_fps.json",
+      "hash": "5eefe6f97c9e9c1981702f9f6cf9829559a8a8dc"
+    },
+    {
+      "path": "config/yosbr/config/entity_texture_features.json",
+      "hash": "91418752e836cd2ea9deffaf9bd5f6fc9e9242ec"
+    },
+    {
+      "path": "config/yosbr/config/fabrishot.properties",
+      "hash": "e87106195458b9c25dada790d80e863c2d8363c2"
+    },
+    {
+      "path": "config/yosbr/config/fastquit.toml",
+      "hash": "e00665ee16327466c894add52e398209d98d67a7"
+    },
+    {
+      "path": "config/yosbr/config/iris.properties",
+      "hash": "443d5e09dd50778bb73e6a2632bf1a0a6353a2aa"
+    },
+    {
+      "path": "config/yosbr/config/isxander-main-menu-credits.json",
+      "hash": "8d542711a1ad1e4e229dfe50edca3103e41337bd"
+    },
+    {
+      "path": "config/yosbr/config/lambdynlights.toml",
+      "hash": "7b639d6e9bb013db50ed4e074003cacf147f4f69"
+    },
+    {
+      "path": "config/yosbr/config/midnightlib.json",
+      "hash": "7f635f0ca44379ba78c7390728700e36e7e0c050"
+    },
+    {
+      "path": "config/yosbr/config/modmenu.json",
+      "hash": "0d9eea548c116e1b38c8f0a380608a3cb70d21a7"
+    },
+    {
+      "path": "config/yosbr/config/moreculling.toml",
+      "hash": "7c983e3e8b1ba2337e0504b38d7a5f103a5f9733"
+    },
+    {
+      "path": "config/yosbr/config/NoChatReports/NCR-Client.json",
+      "hash": "71120f8cdebbd0c953de70cb93439cfa0ed04f59"
+    },
+    {
+      "path": "config/yosbr/config/NoChatReports/NCR-Common.json",
+      "hash": "5fe17cdf0f39e1ef3787a6d479ca7c683ccb7cf1"
+    },
+    {
+      "path": "config/yosbr/config/NoChatReports/NCR-Encryption.json",
+      "hash": "617ab68a4dcb917f8b805dcd5a932b48a6e4bc39"
+    },
+    {
+      "path": "config/yosbr/config/PaginatedAdvancements.json5",
+      "hash": "38969898c8090d9f9ba729256fcedc4298f49b6a"
+    },
+    {
+      "path": "config/yosbr/config/puzzle.json",
+      "hash": "c5aceda9bac3906025ea22ce99e7c7a098d93722"
+    },
+    {
+      "path": "config/yosbr/config/rrls.toml",
+      "hash": "793953188370407e2937685590fc09db280fb6fe"
+    },
+    {
+      "path": "config/yosbr/config/sodium-options.json",
+      "hash": "db4377229df8bad8a7176d4639d25a54839d3535"
+    },
+    {
+      "path": "config/yosbr/options.txt",
+      "hash": "1a6ac4901b94b04bfdde0d00f4f0fe6799b7b77a"
+    },
+    {
+      "path": "config/zoomify.json",
+      "hash": "fb9013aeb5b0e75d0afae7719d822091a0e70892"
+    },
+    {
+      "path": "crosshair_config.ccmcfg",
+      "hash": "01a73f879582efa5aea0fc9c9e7339d48be1ac0d"
+    },
+    {
+      "path": "crosshair_drawn.ccmpng",
+      "hash": "a1ef630abc75fa417779aa5812b57e2879258dbe"
+    },
+    {
+      "path": "CustomSkinLoader/CustomSkinAPIPlus-ClientID",
+      "hash": "5ea26b5b0b75ab42310329debf3d5b2d451dbd68"
+    },
+    {
+      "path": "CustomSkinLoader/CustomSkinLoader.json",
+      "hash": "57b3fdc88f1c5c0d1ad97db2bfecb0ae28322b94"
+    },
+    {
+      "path": "hmclversion.cfg",
+      "hash": "024323276470951de381972326807d166d3702bc"
+    },
+    {
+      "path": "Hunt1.21.4-natives/glfw.dll",
+      "hash": "2e19147110b9872a52814956bab151a7aa80ce58"
+    },
+    {
+      "path": "Hunt1.21.4-natives/jemalloc.dll",
+      "hash": "6403f8243ea983a225b3bcda6c821a0029ad9ee2"
+    },
+    {
+      "path": "Hunt1.21.4-natives/jna12105635118728299441.dll",
+      "hash": "27ff882ac271db547aee520b38e3ba9aa91e136c"
+    },
+    {
+      "path": "Hunt1.21.4-natives/jna12105635118728299441.dll.x",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "Hunt1.21.4-natives/lwjgl.dll",
+      "hash": "2bf57942dff5360889f0e89c58d5acdc54e5f1ea"
+    },
+    {
+      "path": "Hunt1.21.4-natives/lwjgl_opengl.dll",
+      "hash": "dc0249933f6fc2c0dafa53a3b710056597c8ee19"
+    },
+    {
+      "path": "Hunt1.21.4-natives/lwjgl_stb.dll",
+      "hash": "af3b372e2b366c5e681cd3b0640fd9fc41e0a265"
+    },
+    {
+      "path": "Hunt1.21.4-natives/OpenAL.dll",
+      "hash": "96014cec517f2c55a0329a71cd99e68cab7d3242"
+    },
+    {
+      "path": "icon.jpg",
+      "hash": "5c14db5ec2546f30e0841cb93265cc693efe691a"
+    },
+    {
+      "path": "mods/BetterGrassify-1.6.0+fabric.1.21.4.jar",
+      "hash": "e2d5e895f1b9a3513b3e601e14bf704c257db11a"
+    },
+    {
+      "path": "mods/bettermounthud-1.2.5.jar",
+      "hash": "8ec8cc4a44623d696568870f7a226e2d30fc7af8"
+    },
+    {
+      "path": "mods/capes-1.5.5+1.21.4-fabric.jar",
+      "hash": "73a7b0a5a81217820c7c63aa5d59abbac8175240"
+    },
+    {
+      "path": "mods/chat_heads-0.13.14-fabric-1.21.4.jar",
+      "hash": "015b0cddebb9dfe7c1d8abde911b420b35977560"
+    },
+    {
+      "path": "mods/cloth-config-17.0.144-fabric.jar",
+      "hash": "63a1a3b25c642f5a745dfcc9bdc0841660f560af"
+    },
+    {
+      "path": "mods/collective-1.21.4-8.1.jar",
+      "hash": "7ecce4dad775c42844f39c7a47d438f79c0a1ca9"
+    },
+    {
+      "path": "mods/continuity-3.0.0+1.21.4.jar",
+      "hash": "7b22feac8ca586a8c371324cb83abe5546b22d45"
+    },
+    {
+      "path": "mods/coroutil-fabric-1.21.4-1.3.8.jar",
+      "hash": "88e640091d0c8c5842f1158656f2e025e5fac868"
+    },
+    {
+      "path": "mods/cwb-fabric-3.0.0+mc1.21.3.jar",
+      "hash": "101dffee2666b23e51c1b7e810e9455a5c41a0de"
+    },
+    {
+      "path": "mods/Debugify-1.21.4+1.1.jar",
+      "hash": "ca7bf4d2bf863953c0265024619b536638827e8e"
+    },
+    {
+      "path": "mods/enhancedblockentities-0.11.3+1.21.4.jar",
+      "hash": "261b0e79ffbb79f9b708827333bd745620ebbec0"
+    },
+    {
+      "path": "mods/entityculling-fabric-1.7.4-mc1.21.4.jar",
+      "hash": "c9d1e34949d7d3ef54297c9704dd98ea50f9ebee"
+    },
+    {
+      "path": "mods/entity_model_features_fabric_1.21.4-2.4.1.jar",
+      "hash": "6e57d7ed97ccdec9f86766d915915007d35c138f"
+    },
+    {
+      "path": "mods/entity_texture_features_fabric_1.21.4-6.2.10.jar",
+      "hash": "8ad00f1cb33f3b537e836ef8dc1195a811480316"
+    },
+    {
+      "path": "mods/fabric-api-0.119.2+1.21.4.jar",
+      "hash": "7f0110e8a40a1697091cb65cc4ae08a15c0c4bee"
+    },
+    {
+      "path": "mods/fabric-language-kotlin-1.13.2+kotlin.2.1.20.jar",
+      "hash": "2dee22babe2a1f50fac96a115e9ec77e8b6758c1"
+    },
+    {
+      "path": "mods/fabrishot-1.14.3.jar",
+      "hash": "c56d65e1d86af890babcf2819d0f3c2113ce1e3d"
+    },
+    {
+      "path": "mods/ferritecore-7.1.1-fabric.jar",
+      "hash": "ee08ca5fd2a7a02dbade048745533b5570a826f0"
+    },
+    {
+      "path": "mods/ImmediatelyFast-Fabric-1.8.0+1.21.4.jar",
+      "hash": "c18647140192d2f1eb5b09390ea5cabe0e0e1681"
+    },
+    {
+      "path": "mods/lambdynamiclights-4.1.0+1.21.4.jar",
+      "hash": "37a489d239e3296ed887ffc422ba82f8aa5e3678"
+    },
+    {
+      "path": "mods/language-reload-1.7.3+1.21.4.jar",
+      "hash": "97989cd917afba7cc8c7bf9671a662da6ecfe84d"
+    },
+    {
+      "path": "mods/lithium-fabric-0.15.1+mc1.21.4.jar",
+      "hash": "10bdb52c967b32da4a989e1f75dc060d8a036db2"
+    },
+    {
+      "path": "mods/modelfix-1.21.3-1.10-fabric.jar",
+      "hash": "3f4d67c87d0a6e8c323f443635013bfd58b8872d"
+    },
+    {
+      "path": "mods/modernfix-fabric-5.20.3+mc1.21.4.jar",
+      "hash": "46dabb966c9772daf5d3af20fbadc8f2fbcbeb18"
+    },
+    {
+      "path": "mods/modmenu-13.0.3.jar",
+      "hash": "4cab0014a7223c6988fde70064579dc66ef8f000"
+    },
+    {
+      "path": "mods/morechathistory-1.3.1.jar",
+      "hash": "b4337ef9dc0a6cdf31d8f3df68a6542f64f3625e"
+    },
+    {
+      "path": "mods/moreculling-fabric-1.21.4-1.2.10.jar",
+      "hash": "9caa2f4d72cf2f5a80ebafab54ae4ee73f1b6bb5"
+    },
+    {
+      "path": "mods/NoChatReports-FABRIC-1.21.4-v2.11.0.jar",
+      "hash": "9fc63f45ee0f157fd161f57f2af1db20ae603918"
+    },
+    {
+      "path": "mods/paginatedadvancements-2.6.1+1.21.4.jar",
+      "hash": "4a51479eec48b93de40b568231b084fb39eb6091"
+    },
+    {
+      "path": "mods/reeses-sodium-options-fabric-1.8.3+mc1.21.4.jar",
+      "hash": "c72f07a8f139f0420cbce29bd9eb29fb24db427f"
+    },
+    {
+      "path": "mods/replaymod-1.21.4-2.6.21.jar",
+      "hash": "4746de6607b0ef02014d7320b17d9f3dbe62c771"
+    },
+    {
+      "path": "mods/simple-hud-enhanced+1.21.4-4.7.5.jar",
+      "hash": "915c46e11ba759d98377be3a0ad69576960a4b15"
+    },
+    {
+      "path": "mods/simplemenu-1.21.4-1.5.jar",
+      "hash": "fbdb6ccb5283715f8d41bdcc54334e31c3e163ed"
+    },
+    {
+      "path": "mods/sodium-extra-fabric-0.6.1+mc1.21.4.jar",
+      "hash": "c3bd0d2121653fec3c0f82a841d88e85e87f9796"
+    },
+    {
+      "path": "mods/sodium-fabric-0.6.10+mc1.21.4.jar",
+      "hash": "b4ce6db38fd287ce6af644ee9f71a5318c52f42e"
+    },
+    {
+      "path": "mods/watut-fabric-1.21.4-1.2.5.jar",
+      "hash": "00355d0943871d112c07f217f96fcf5750022ec7"
+    },
+    {
+      "path": "mods/yet_another_config_lib_v3-3.6.6+1.21.4-fabric.jar",
+      "hash": "f7890f2cd7a81ec557dc8d1b10b6ae4d8b4c518b"
+    },
+    {
+      "path": "mods/Zoomify-2.14.2+1.21.3.jar",
+      "hash": "736e8888664701b86042e10bea357aa9af583c35"
+    },
+    {
+      "path": "mods/[万用皮肤补丁] CustomSkinLoader_Fabric-14.23.jar",
+      "hash": "4af7319f0fddb48f7a6c0dd24ae3848734279e44"
+    },
+    {
+      "path": "mods/[伽玛工具] Gamma-Utils-2.2.2-mc1.21.4.jar",
+      "hash": "e9fe5f1c856325f31be391e2862059a09ea9a892"
+    },
+    {
+      "path": "mods/[更好的延迟显示] BetterPingDisplay-Fabric-1.21.4-1.1.1.jar",
+      "hash": "7ffd6268b82f61938792a1bb4b09b6a4110376ae"
+    },
+    {
+      "path": "mods/[物理声效重制版] sound-physics-remastered-fabric-1.21.4-1.4.10.jar",
+      "hash": "3c2c6985f1631c777ed8ee7bb22ba5f0d953458f"
+    },
+    {
+      "path": "mods/[自定义准心] custom-crosshair-mod-v1.6.0-fabric-mc1.21.4.jar",
+      "hash": "69d2052881334ae5b46c7ce2e148a4a7729cb499"
+    },
+    {
+      "path": "mods/[输入法冲突修复] IMBlocker-5.0.2-1.20.6+.jar",
+      "hash": "0023646959d5b7ddf4c2892b5d469398f40e88cd"
+    },
+    {
+      "path": "natives-windows-x86_64/glfw.dll",
+      "hash": "2e19147110b9872a52814956bab151a7aa80ce58"
+    },
+    {
+      "path": "natives-windows-x86_64/jemalloc.dll",
+      "hash": "6403f8243ea983a225b3bcda6c821a0029ad9ee2"
+    },
+    {
+      "path": "natives-windows-x86_64/jna611209145198203486.dll",
+      "hash": "27ff882ac271db547aee520b38e3ba9aa91e136c"
+    },
+    {
+      "path": "natives-windows-x86_64/jna611209145198203486.dll.x",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "natives-windows-x86_64/lwjgl.dll",
+      "hash": "2bf57942dff5360889f0e89c58d5acdc54e5f1ea"
+    },
+    {
+      "path": "natives-windows-x86_64/lwjgl_opengl.dll",
+      "hash": "dc0249933f6fc2c0dafa53a3b710056597c8ee19"
+    },
+    {
+      "path": "natives-windows-x86_64/lwjgl_stb.dll",
+      "hash": "af3b372e2b366c5e681cd3b0640fd9fc41e0a265"
+    },
+    {
+      "path": "natives-windows-x86_64/OpenAL.dll",
+      "hash": "96014cec517f2c55a0329a71cd99e68cab7d3242"
+    },
+    {
+      "path": "options.txt",
+      "hash": "134ff93214feb16dad560114001c4004ae19760d"
+    },
+    {
+      "path": "resourcepacks/Chat Reporting Helper.zip",
+      "hash": "4437f70bde5066a6684d37b95e59c7a8683617be"
+    },
+    {
+      "path": "resourcepacks/Piglin_Chan.zip",
+      "hash": "6ee2d270661d2c6512e7b06d134de77cf46d5f0b"
+    },
+    {
+      "path": "resourcepacks/SodiumTranslations.zip",
+      "hash": "d00ce6c8f93657706d6d44f416df9929dd54a444"
+    },
+    {
+      "path": "servers.dat",
+      "hash": "57004f57f4302caa0ab8fa00dc423eb607cac18d"
+    }
+  ],
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.21.4"
+    },
+    {
+      "id": "fabric",
+      "version": "0.16.10"
+    }
+  ]
+}
