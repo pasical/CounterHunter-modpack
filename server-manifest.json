@@ -1,10 +1,18 @@
 {
-  "name": "CounterHunter-1.21.4-online",
+  "name": "CounterHunter 1.21.4",
   "author": "Pasicalx",
-  "version": "beta20250403",
+  "version": "1.0",
   "description": "",
   "fileApi": "https://github.com/pasical/CounterHunter-modpack/blob/main",
   "files": [
+    {
+      "path": ".replay_cache/raw%5C2025_03_28_16_52_29%2Emcpr/recording.tmcpr.crc32",
+      "hash": "9118b86c58de1e0c765f6f4ac6512aba42c34206"
+    },
+    {
+      "path": "command_history.txt",
+      "hash": "a46f4fef9206082fd678eaf9c9727e4f2faba525"
+    },
     {
       "path": "config/.puzzle_cache/mojangstudios.png",
       "hash": "dba50ab92eb72e3b1e6721ca702fb4c4c5479bdf"
@@ -406,6 +414,14 @@
       "hash": "57b3fdc88f1c5c0d1ad97db2bfecb0ae28322b94"
     },
     {
+      "path": "debug/disconnect-2025-03-28_16.21.35-client.txt",
+      "hash": "52b958a08c2aaaa23e684fec49c4fc951375e406"
+    },
+    {
+      "path": "debug/disconnect-2025-03-28_16.55.23-client.txt",
+      "hash": "82f8b1d13386a9b3aa553ceba9f1ecbf0399cc96"
+    },
+    {
       "path": "hmclversion.cfg",
       "hash": "024323276470951de381972326807d166d3702bc"
     },
@@ -446,8 +462,12 @@
       "hash": "5c14db5ec2546f30e0841cb93265cc693efe691a"
     },
     {
-      "path": "mods/appleskin-fabric-mc1.21.3-3.0.6.jar",
-      "hash": "5bf91b0df04e27b94b8dff36aa782cc9f44fc2f6"
+      "path": "log4j2.xml",
+      "hash": "d47d254675d1aee18670aece5ed768e1e631517b"
+    },
+    {
+      "path": "modrinth.index.json",
+      "hash": "11c098b2ba2b79e2138e5518cf92c2b6cf3dd5e4"
     },
     {
       "path": "mods/BetterGrassify-1.6.0+fabric.1.21.4.jar",
@@ -662,6 +682,102 @@
       "hash": "134ff93214feb16dad560114001c4004ae19760d"
     },
     {
+      "path": "PCL/Logo.png",
+      "hash": "5c14db5ec2546f30e0841cb93265cc693efe691a"
+    },
+    {
+      "path": "PCL/Setup.ini",
+      "hash": "fcb0415b2683952fd5f56ffcf6e708c3cd40a768"
+    },
+    {
+      "path": "replay_recordings/2025_04_02_21_18_51.mcpr.del/changed/markers.json",
+      "hash": "61184c1eb9e27459bee9556654f23863a35b38e7"
+    },
+    {
+      "path": "replay_recordings/2025_04_02_21_18_51.mcpr.del/changed/metaData.json",
+      "hash": "e76e2564d36fdbf9dd6671ca8e369e5bd0c8ce9f"
+    },
+    {
+      "path": "replay_recordings/2025_04_02_21_18_51.mcpr.del/changed/mods.json",
+      "hash": "189e5774c95163f979064862b64e47987cc47cf7"
+    },
+    {
+      "path": "replay_recordings/2025_04_02_21_18_51.mcpr.del/changed/recording.tmcpr",
+      "hash": "d02379e024188965e80f7d586c6f2bdcb1282a91"
+    },
+    {
+      "path": "replay_recordings/2025_04_02_21_18_51.mcpr.del/changed/recording.tmcpr.crc32",
+      "hash": "81f344a7686a80b4c5293e8fdc0b0160c82c06a8"
+    },
+    {
+      "path": "replay_recordings/raw/2025_03_28_16_52_29.mcpr",
+      "hash": "ec5baf1ace64b61175358745d64709dea1c65a0c"
+    },
+    {
+      "path": "replay_recordings/raw/2025_03_28_16_54_16.mcpr",
+      "hash": "05cc748c7ca8a00619802f6cadabaa323e7c7485"
+    },
+    {
+      "path": "replay_recordings/raw/2025_03_28_16_58_26.mcpr",
+      "hash": "8702d7f1ff012ec27d7cf6f97d77ed7e89f3e898"
+    },
+    {
+      "path": "replay_recordings/raw/2025_04_01_16_08_07.mcpr",
+      "hash": "a99ac40d9cbbab9467cfe0174e8f4d797e1e4e95"
+    },
+    {
+      "path": "replay_recordings/raw/2025_04_01_16_30_37.mcpr",
+      "hash": "e8c363131a830f335678d725d2e9055d998cf1ef"
+    },
+    {
+      "path": "replay_recordings/raw/2025_04_01_16_42_03.mcpr",
+      "hash": "077db55322af5769689d0749ebb088ecb19de7b0"
+    },
+    {
+      "path": "replay_recordings/raw/2025_04_01_16_55_04.mcpr",
+      "hash": "2bbf4d911490e23bf3d4458c74a19ab25414eb2a"
+    },
+    {
+      "path": "replay_recordings/raw/2025_04_01_17_06_04.mcpr",
+      "hash": "5a55585ac680a5968c45bc17308de5372fb74f2e"
+    },
+    {
+      "path": "replay_recordings/raw/2025_04_01_17_17_20.mcpr",
+      "hash": "940608c999a001bd367740848e3bf69683618a4c"
+    },
+    {
+      "path": "replay_recordings/raw/2025_04_01_17_48_58.mcpr",
+      "hash": "820a124925b5984f2985723d3a0db5f73530100a"
+    },
+    {
+      "path": "replay_recordings/raw/2025_04_01_18_15_22.mcpr",
+      "hash": "7e64f4c880173c36e9fba6fe389a58f9c4f2dcd8"
+    },
+    {
+      "path": "replay_recordings/raw/2025_04_01_18_19_04.mcpr",
+      "hash": "314e15b328cdc154361d286102eaba0043073b08"
+    },
+    {
+      "path": "replay_recordings/raw/2025_04_01_18_58_43.mcpr",
+      "hash": "9fc15a6b50a1109497aad279d29ce7293f3c039b"
+    },
+    {
+      "path": "replay_recordings/raw/2025_04_01_20_54_03.mcpr",
+      "hash": "32572bd0c8314ec3817b1d1b6624f7791795c582"
+    },
+    {
+      "path": "replay_recordings/raw/2025_04_01_21_49_00.mcpr",
+      "hash": "17e116f0d9add817feb3d1429114eeff3e259727"
+    },
+    {
+      "path": "replay_recordings/raw/2025_04_01_21_57_53.mcpr",
+      "hash": "8574f9ce8c7e96b24e6679cfae04cdd80ed4b523"
+    },
+    {
+      "path": "replay_recordings/raw/2025_04_02_21_25_36.mcpr",
+      "hash": "efb569bf75cadcaa7ccd3b5ccb10c41a8f1e6fb4"
+    },
+    {
       "path": "resourcepacks/Chat Reporting Helper.zip",
       "hash": "4437f70bde5066a6684d37b95e59c7a8683617be"
     },
@@ -674,8 +790,676 @@
       "hash": "d00ce6c8f93657706d6d44f416df9929dd54a444"
     },
     {
+      "path": "saves/新的世界/advancements/f8890a3c-d9c5-406a-b6e6-7584296263b8.json",
+      "hash": "ee0a90c00ee046c73c7ff19302b7031fd2b4a9d2"
+    },
+    {
+      "path": "saves/新的世界/data/mfix_strongholds.dat",
+      "hash": "2fa229b51c326916e95e515653bbb4fd6547e08e"
+    },
+    {
+      "path": "saves/新的世界/data/raids.dat",
+      "hash": "3a2a81f7f248bcc35fd0820cb64c07bdcfdbbf2f"
+    },
+    {
+      "path": "saves/新的世界/data/random_sequences.dat",
+      "hash": "077771288dd91b37b62457798a0f6da205968883"
+    },
+    {
+      "path": "saves/新的世界/data/scoreboard.dat",
+      "hash": "c7cc0d3783c465c2584dd55efc43651b4056dbbf"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/data/mfix_strongholds.dat",
+      "hash": "4b9f76d5781c8184b0a6179f2941689a0c3718f0"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/data/raids.dat",
+      "hash": "3a2a81f7f248bcc35fd0820cb64c07bdcfdbbf2f"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/entities/r.-1.-1.mca",
+      "hash": "4ee64ec9031958bc2c98712bf0d7b466021eb0c7"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/entities/r.-1.-2.mca",
+      "hash": "445fd62ead8c8e839f916d03369f9a01e83ddd33"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/entities/r.-1.0.mca",
+      "hash": "474896c316615ab1c2ec8447a691405774306811"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/entities/r.0.-1.mca",
+      "hash": "8345e3797324c6174e36341ac15d5eb8526275f5"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/entities/r.0.-2.mca",
+      "hash": "d7afe91e653b64efff95b09718e0dcffa5ab8f0e"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/entities/r.0.0.mca",
+      "hash": "c6b4214634ea71e92736494b90b01d2c0b5083f0"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/entities/r.1.-1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/entities/r.1.-2.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/entities/r.1.0.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/poi/r.-1.-1.mca",
+      "hash": "c5454e92b3440becb1d0b2ff1db49c0b6e003170"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/poi/r.-1.-2.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/poi/r.-1.0.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/poi/r.-1.1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/poi/r.-2.-1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/poi/r.-2.-2.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/poi/r.-2.0.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/poi/r.-2.1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/poi/r.0.-1.mca",
+      "hash": "ec4cbb425545a52c2e322ee46cba4bcd1406626d"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/poi/r.0.-2.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/poi/r.0.0.mca",
+      "hash": "4058264fb3f691a7c789440503e73cc4d5d2ff90"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/poi/r.0.1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/poi/r.1.-1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/poi/r.1.-2.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/poi/r.1.0.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/poi/r.1.1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/region/r.-1.-1.mca",
+      "hash": "b349ed40777fb77629d37d1fa75276a9f3fa6a10"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/region/r.-1.-2.mca",
+      "hash": "d498e84b9cf0d11384453bf150a646a44df9083a"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/region/r.-1.0.mca",
+      "hash": "3a528582aa2278b477c98e57ad620f52198dac77"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/region/r.-1.1.mca",
+      "hash": "b1bfc54a4c347ac6ffbdc771d80784d514ba18fa"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/region/r.-2.-1.mca",
+      "hash": "40b19a1cfcbb4e4b1b7b6f3ecf408e31d0612899"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/region/r.-2.-2.mca",
+      "hash": "d9261af1cbcda1594834b2c63623609784671fa0"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/region/r.-2.0.mca",
+      "hash": "6a46d96f354f032eb3216c7a7050530ce9df49eb"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/region/r.-2.1.mca",
+      "hash": "c6257fd0ef1da1fe87ba579333bb84d547930f02"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/region/r.0.-1.mca",
+      "hash": "efa6209f06e00a65bad0b0b2e6aa0c8574400092"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/region/r.0.-2.mca",
+      "hash": "958ab199a859713e24adc73a14b775e98494f838"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/region/r.0.0.mca",
+      "hash": "aaf2aef79407dfed39649b76b067b9d27c7dc127"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/region/r.0.1.mca",
+      "hash": "c822a53898c56588f6e2c917ac82c598631ca97e"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/region/r.1.-1.mca",
+      "hash": "cb04f8fd654c3c7ae1f729a42f5cc188cb8fbe78"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/region/r.1.-2.mca",
+      "hash": "5d51811c9aff9b4dad354a75616c644f021ffbfb"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/region/r.1.0.mca",
+      "hash": "2a4aa27b4dd7090124ba87c3171996f8230b5db8"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/region/r.1.1.mca",
+      "hash": "c6fff19d0e755449b884f725b0ce8ba35b1b01c4"
+    },
+    {
+      "path": "saves/新的世界/DIM1/data/mfix_strongholds.dat",
+      "hash": "4b9f76d5781c8184b0a6179f2941689a0c3718f0"
+    },
+    {
+      "path": "saves/新的世界/DIM1/data/raids_end.dat",
+      "hash": "3a2a81f7f248bcc35fd0820cb64c07bdcfdbbf2f"
+    },
+    {
+      "path": "saves/新的世界/entities/r.-1.-1.mca",
+      "hash": "f77659a99c43d7b699ab007c2ffd1c3d11fcff01"
+    },
+    {
+      "path": "saves/新的世界/entities/r.-1.-2.mca",
+      "hash": "f7e65e1db9d0859599ae2721578721424bbb994c"
+    },
+    {
+      "path": "saves/新的世界/entities/r.-1.-3.mca",
+      "hash": "8cda7a197b5a77a8eae3b81451a53e890646f410"
+    },
+    {
+      "path": "saves/新的世界/entities/r.-1.-4.mca",
+      "hash": "8116a89c210b3e074a659e6b9c8fddd646927f27"
+    },
+    {
+      "path": "saves/新的世界/entities/r.-1.0.mca",
+      "hash": "9cbe2b73c4ea690a5729e1f823e46ed5aa07cecb"
+    },
+    {
+      "path": "saves/新的世界/entities/r.-1.1.mca",
+      "hash": "35e7271f301576a8a38fb3134d86c81cca8cb5f0"
+    },
+    {
+      "path": "saves/新的世界/entities/r.-2.-1.mca",
+      "hash": "24fdd17e68e311b6ce19945622f805a605cd45f4"
+    },
+    {
+      "path": "saves/新的世界/entities/r.-2.-2.mca",
+      "hash": "fd19cc4437ff945e3268fc9630896f12946ab3c9"
+    },
+    {
+      "path": "saves/新的世界/entities/r.-2.-3.mca",
+      "hash": "2f5b5905fe4b2d260c73eb6a71b03ded955f9569"
+    },
+    {
+      "path": "saves/新的世界/entities/r.-2.-4.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/entities/r.-2.0.mca",
+      "hash": "8263b812faac6ab7c93f9619215d275c67affc12"
+    },
+    {
+      "path": "saves/新的世界/entities/r.0.-1.mca",
+      "hash": "26e039415c85bb8950c0ebab0c8b239658188386"
+    },
+    {
+      "path": "saves/新的世界/entities/r.0.-2.mca",
+      "hash": "a9cfa605b9893a0cae62157bb5836ff8584a949f"
+    },
+    {
+      "path": "saves/新的世界/entities/r.0.-3.mca",
+      "hash": "71e550f22043203b0aa134310a038658f60d776d"
+    },
+    {
+      "path": "saves/新的世界/entities/r.0.-4.mca",
+      "hash": "f1d1cddbee40e6688e3d1d3287bcb4ef1c916670"
+    },
+    {
+      "path": "saves/新的世界/entities/r.0.0.mca",
+      "hash": "3891c89f98204435ede1a90abce2e9c840bf830f"
+    },
+    {
+      "path": "saves/新的世界/entities/r.0.1.mca",
+      "hash": "cf3315f6c9aeba48cd98a388054fcc94054c36f2"
+    },
+    {
+      "path": "saves/新的世界/entities/r.1.-1.mca",
+      "hash": "0eb31a0bd2155bd7f4c64773af25c2fbfb431c21"
+    },
+    {
+      "path": "saves/新的世界/entities/r.1.-2.mca",
+      "hash": "f0f82c471a299e14705c07949cfd10eccade728f"
+    },
+    {
+      "path": "saves/新的世界/entities/r.1.-3.mca",
+      "hash": "6c418334096516060b1519d1cf2f2c05764f6f23"
+    },
+    {
+      "path": "saves/新的世界/entities/r.1.-4.mca",
+      "hash": "8be64f962ffef5338be23453c641598b52f4a8f9"
+    },
+    {
+      "path": "saves/新的世界/entities/r.1.-5.mca",
+      "hash": "8457e21bf4f71d8470348763a7c4b27f7883fe31"
+    },
+    {
+      "path": "saves/新的世界/entities/r.1.0.mca",
+      "hash": "4297d686c2d3e716355e801afbb6946fdc7501b0"
+    },
+    {
+      "path": "saves/新的世界/entities/r.1.1.mca",
+      "hash": "eee6144ba59ea79adb10e3a1f69df2767b75f68b"
+    },
+    {
+      "path": "saves/新的世界/entities/r.2.-2.mca",
+      "hash": "3181551cc56204bf74394a820c6b9d6e7a91f3f4"
+    },
+    {
+      "path": "saves/新的世界/entities/r.2.-3.mca",
+      "hash": "90b754afe977a8e7e3553b5a5795975786212eee"
+    },
+    {
+      "path": "saves/新的世界/entities/r.2.-4.mca",
+      "hash": "2f0551b57c491198325736b27d5189bea51c1fc4"
+    },
+    {
+      "path": "saves/新的世界/entities/r.2.-5.mca",
+      "hash": "0a5efdb21c3e68948ff2afc05f0ac84c6ffc9d61"
+    },
+    {
+      "path": "saves/新的世界/entities/r.3.-3.mca",
+      "hash": "fcc4c92f1e8d18f5dda8ea2b31667248b1415aea"
+    },
+    {
+      "path": "saves/新的世界/entities/r.3.-4.mca",
+      "hash": "0e7632160d98545492429d70737aacaa716f2582"
+    },
+    {
+      "path": "saves/新的世界/entities/r.3.-5.mca",
+      "hash": "3b3a46d887fb59cb3358426292250b12d3b2fd93"
+    },
+    {
+      "path": "saves/新的世界/icon.png",
+      "hash": "e8567aa0f45efb5db5a5e92854bb2632f3baa49c"
+    },
+    {
+      "path": "saves/新的世界/level.dat",
+      "hash": "a584eb607daec95e7ced0ace10b2f8c20348b985"
+    },
+    {
+      "path": "saves/新的世界/level.dat_old",
+      "hash": "ecf6e6664ff4428dd7a2b439ca6ae1601ecfb67a"
+    },
+    {
+      "path": "saves/新的世界/playerdata/f8890a3c-d9c5-406a-b6e6-7584296263b8.dat",
+      "hash": "db1671534d338ca4696481c19102c08513516124"
+    },
+    {
+      "path": "saves/新的世界/playerdata/f8890a3c-d9c5-406a-b6e6-7584296263b8.dat_old",
+      "hash": "c5391c575771c9f2ef382691a46d63e58c28dad7"
+    },
+    {
+      "path": "saves/新的世界/poi/r.-1.-1.mca",
+      "hash": "009f414a26704984559d6b6ca9f4caf645443e32"
+    },
+    {
+      "path": "saves/新的世界/poi/r.-1.-2.mca",
+      "hash": "731113ba58aa868757513135ba0a27d8c3fdab5f"
+    },
+    {
+      "path": "saves/新的世界/poi/r.-1.-3.mca",
+      "hash": "66d6605cee328c0cb2cd4062bb4d923cefcd9a8f"
+    },
+    {
+      "path": "saves/新的世界/poi/r.-1.-4.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/poi/r.-1.0.mca",
+      "hash": "c8b188fce8b4b9372f87d8a4bf489b765121d729"
+    },
+    {
+      "path": "saves/新的世界/poi/r.-1.1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/poi/r.-2.-1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/poi/r.-2.-2.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/poi/r.-2.-3.mca",
+      "hash": "b3fc4705bca28edf7322038f37128c0dc3927ca2"
+    },
+    {
+      "path": "saves/新的世界/poi/r.-2.-4.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/poi/r.-2.0.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/poi/r.-2.1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/poi/r.0.-1.mca",
+      "hash": "858908a97f2912c4e88286594363461b6d424053"
+    },
+    {
+      "path": "saves/新的世界/poi/r.0.-2.mca",
+      "hash": "a26c355077901dfd4f94ea65e98bc1831a1d3f68"
+    },
+    {
+      "path": "saves/新的世界/poi/r.0.-3.mca",
+      "hash": "d385acc4ee06bababeaa28d907e6030383991864"
+    },
+    {
+      "path": "saves/新的世界/poi/r.0.-4.mca",
+      "hash": "f530692d145ffefeab64b924a35aeb6790739815"
+    },
+    {
+      "path": "saves/新的世界/poi/r.0.0.mca",
+      "hash": "b88075369806cd2ab44a44407971371f92e8b092"
+    },
+    {
+      "path": "saves/新的世界/poi/r.0.1.mca",
+      "hash": "21fb0f7592158ebd1932c18509660347018cac5b"
+    },
+    {
+      "path": "saves/新的世界/poi/r.1.-1.mca",
+      "hash": "b2b45ac0a114f58aad49719784396fc165fc48fb"
+    },
+    {
+      "path": "saves/新的世界/poi/r.1.-2.mca",
+      "hash": "247d8bd6bf8c87a53cf55a48b15060ab164adc98"
+    },
+    {
+      "path": "saves/新的世界/poi/r.1.-3.mca",
+      "hash": "9437034afb63fca75f98f4bf4dd18851759445ac"
+    },
+    {
+      "path": "saves/新的世界/poi/r.1.-4.mca",
+      "hash": "56ff4b49c7f1b5d36a4d267e942fb09ba26ef50e"
+    },
+    {
+      "path": "saves/新的世界/poi/r.1.-5.mca",
+      "hash": "8e1f29c138e46a0d3ce0d22669526b8275788ad6"
+    },
+    {
+      "path": "saves/新的世界/poi/r.1.0.mca",
+      "hash": "648825a1d75536c0c534e0ab21fb310e42822608"
+    },
+    {
+      "path": "saves/新的世界/poi/r.1.1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/poi/r.2.-1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/poi/r.2.-2.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/poi/r.2.-3.mca",
+      "hash": "d5963d6dd5406f95d8c7a2b88d8784777a7f79ce"
+    },
+    {
+      "path": "saves/新的世界/poi/r.2.-4.mca",
+      "hash": "baf69b87842929b408de148d28c6953bf216d61f"
+    },
+    {
+      "path": "saves/新的世界/poi/r.2.-5.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/poi/r.3.-2.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/poi/r.3.-3.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/poi/r.3.-4.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/poi/r.3.-5.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/新的世界/region/r.-1.-1.mca",
+      "hash": "f4f4872654c3b33f087736dbf05069bf3b00d40a"
+    },
+    {
+      "path": "saves/新的世界/region/r.-1.-2.mca",
+      "hash": "3d607f799dbff1dc411456bba7270a340f6ad02e"
+    },
+    {
+      "path": "saves/新的世界/region/r.-1.-3.mca",
+      "hash": "06ccf7ddc1b740be5520c8117f923c68af4ceacc"
+    },
+    {
+      "path": "saves/新的世界/region/r.-1.-4.mca",
+      "hash": "528a82b53594be75dc59becd09e462eba70de7c1"
+    },
+    {
+      "path": "saves/新的世界/region/r.-1.0.mca",
+      "hash": "cf9cb21b0efe48d1f0c18a68881a50665344296a"
+    },
+    {
+      "path": "saves/新的世界/region/r.-1.1.mca",
+      "hash": "b2d5bb4fbe18ed1b7ebaee4d12c977053dc68a2d"
+    },
+    {
+      "path": "saves/新的世界/region/r.-2.-1.mca",
+      "hash": "6772a46fb9e2497b621eb8d6d93c52a1fda0b626"
+    },
+    {
+      "path": "saves/新的世界/region/r.-2.-2.mca",
+      "hash": "cdad0c2ad17278d1e67f74c2b222035312c10ee3"
+    },
+    {
+      "path": "saves/新的世界/region/r.-2.-3.mca",
+      "hash": "7148652f15b9a46b5b3cb9732a3dba9e04af3d41"
+    },
+    {
+      "path": "saves/新的世界/region/r.-2.-4.mca",
+      "hash": "ce53a60389b7e9c1c474db1b5a2d34cf509436d9"
+    },
+    {
+      "path": "saves/新的世界/region/r.-2.0.mca",
+      "hash": "c7643385c46c9c25507b43fecd02c5bfa48bdb1d"
+    },
+    {
+      "path": "saves/新的世界/region/r.-2.1.mca",
+      "hash": "a3f240e803282c41b711f9660a9f3d4c08b4d59f"
+    },
+    {
+      "path": "saves/新的世界/region/r.0.-1.mca",
+      "hash": "ec3175c1294d8d76f07699b5e41ce45575c8cd8f"
+    },
+    {
+      "path": "saves/新的世界/region/r.0.-2.mca",
+      "hash": "2270515cca8e1b2e8961d82efb3dc0d3ed3dd678"
+    },
+    {
+      "path": "saves/新的世界/region/r.0.-3.mca",
+      "hash": "27c15557c0119de2c220d8205257007c28dc7094"
+    },
+    {
+      "path": "saves/新的世界/region/r.0.-4.mca",
+      "hash": "2f62e4e47e257d8db236d9265c1c4a452f11388d"
+    },
+    {
+      "path": "saves/新的世界/region/r.0.0.mca",
+      "hash": "e031f818d4dc5a09664c238252761717f11bc3a1"
+    },
+    {
+      "path": "saves/新的世界/region/r.0.1.mca",
+      "hash": "bd2cd8b89e64e9434dcc106d22eab3aeb1ee7dfb"
+    },
+    {
+      "path": "saves/新的世界/region/r.1.-1.mca",
+      "hash": "3737d051d0dff7d6d149b033f2a76d40b7bbb384"
+    },
+    {
+      "path": "saves/新的世界/region/r.1.-2.mca",
+      "hash": "80547efe9b8b50414da132910fe227bc9c8880a8"
+    },
+    {
+      "path": "saves/新的世界/region/r.1.-3.mca",
+      "hash": "1eb9e53995c194841816876d66dba402fe615b80"
+    },
+    {
+      "path": "saves/新的世界/region/r.1.-4.mca",
+      "hash": "2559466df13a9961bdf8b95d676f1081701fd1c2"
+    },
+    {
+      "path": "saves/新的世界/region/r.1.-5.mca",
+      "hash": "a2aeb15e3cdf04f8f5f61982de70cef256b31825"
+    },
+    {
+      "path": "saves/新的世界/region/r.1.0.mca",
+      "hash": "b2fa996573d595646b3b33b9ca32858cdbaf36d7"
+    },
+    {
+      "path": "saves/新的世界/region/r.1.1.mca",
+      "hash": "9efe6e9d97cab0f151056e83ba2f5e65de87a550"
+    },
+    {
+      "path": "saves/新的世界/region/r.2.-1.mca",
+      "hash": "7f02549c6121d27866bb6e83fefe722d7118ecd4"
+    },
+    {
+      "path": "saves/新的世界/region/r.2.-2.mca",
+      "hash": "880c4da95549c33c77dacd6af2735138bd07d97f"
+    },
+    {
+      "path": "saves/新的世界/region/r.2.-3.mca",
+      "hash": "35350e8baec24408163e7c1090cea31a474404e5"
+    },
+    {
+      "path": "saves/新的世界/region/r.2.-4.mca",
+      "hash": "2effb0d7897907ba86c74e0b823784a11f863e47"
+    },
+    {
+      "path": "saves/新的世界/region/r.2.-5.mca",
+      "hash": "72a9cf6b8b69b45f81288febb40bbad50e424f1f"
+    },
+    {
+      "path": "saves/新的世界/region/r.3.-2.mca",
+      "hash": "6e14fd5e08bd89cedb9b504fd739314c2249a16a"
+    },
+    {
+      "path": "saves/新的世界/region/r.3.-3.mca",
+      "hash": "2099e3d6411a7ac88a801a22111530f768e99ead"
+    },
+    {
+      "path": "saves/新的世界/region/r.3.-4.mca",
+      "hash": "af7c493ed850a5cbf26acb154852d767e786f6ec"
+    },
+    {
+      "path": "saves/新的世界/region/r.3.-5.mca",
+      "hash": "79b5dd4e81750e8b628586716f21f265776bbff5"
+    },
+    {
+      "path": "saves/新的世界/serverconfig/readme.txt",
+      "hash": "ce01199f7421593652588b3f62f55bdd84c5dd74"
+    },
+    {
+      "path": "saves/新的世界/session.lock",
+      "hash": "2686137311c038a99622242fdb662b88c221c08d"
+    },
+    {
+      "path": "saves/新的世界/stats/f8890a3c-d9c5-406a-b6e6-7584296263b8.json",
+      "hash": "0cb8d5d6c08f8579a14b12491595b2423933bbae"
+    },
+    {
       "path": "servers.dat",
       "hash": "57004f57f4302caa0ab8fa00dc423eb607cac18d"
+    },
+    {
+      "path": "servers.dat_old",
+      "hash": "57004f57f4302caa0ab8fa00dc423eb607cac18d"
+    },
+    {
+      "path": "shaderpacks/Bliss-Shader-main.zip",
+      "hash": "e7fd6f67c13ecd94f1bc1c131c0a9adc09b453c1"
+    },
+    {
+      "path": "shaderpacks/BSL_v8.2.09.zip",
+      "hash": "cd92bf706a1347a2d2943b14391ffbe1233415bc"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined-main.zip",
+      "hash": "b672b5dccbd53cba325359441e52b99f20bc69f2"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined-main.zip.txt",
+      "hash": "fe6c7ea107d36861172662ecfda9dd90e16b356d"
+    },
+    {
+      "path": "shaderpacks/iterationT+3.2.0.zip",
+      "hash": "ddadd31e7c59cedadc1e704e5f83c872cb3d5e37"
+    },
+    {
+      "path": "shaderpacks/iterationT+3.2.0.zip.txt",
+      "hash": "1d3ce2b4d0fa5368ab1689712bd7439e13866384"
+    },
+    {
+      "path": "shaderpacks/MakeUpUltraFast-master.zip",
+      "hash": "e472717275cea65f9f32fe80dc529c00b7af15d5"
+    },
+    {
+      "path": "shaderpacks/photon-main.zip",
+      "hash": "4a292dfbf77acfe341b28b65408a742df7074a2c"
+    },
+    {
+      "path": "shaderpacks/photon-main.zip.txt",
+      "hash": "ec693c74fdbef6549f710377bafbc8ea7929bcb2"
     }
   ],
   "addons": [
