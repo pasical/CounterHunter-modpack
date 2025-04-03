@@ -1,13 +1,10 @@
 {
-    {
-      "id": "20250402",
-      "releasedAt": 1727575200000,
-      "promotions": {
-        "downloads": {
-          "generic": "https://github.com/pasical/CounterHunter-modpack/releases/tag/20250402"
-        }
-      },
-      "updateType": "major"
+  "id": "20250402",
+  "releasedAt": 1727575200000,
+  "promotions": {
+    "downloads": {
+      "generic": "https://github.com/pasical/CounterHunter-modpack/releases/tag/20250402"
     }
-  ]
+  },
+  "updateType": "major"
 }
