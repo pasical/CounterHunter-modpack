@@ -1,14 +1,16 @@
 {
-  "schemaVersion": 9,
-  "currentVersion": "20250402",
+  "schemaVersion": 7,
+  "currentVersion": "20250403",
   "modpackName": "CounterHunter",
   "modpackAuthor": "Pasicalx",
   "modpackReleaseType": "stable",
-  "updateCheckerId": "https://github.com/pasical/CounterHunter-modpack/tree/main/",
+  "updateCheckerId": "https://raw.githubusercontent.com/pasical/CounterHunter-modpack/tree/main/",
   "advanced": {
     "bccEnabled": false,
-    "expandButton": false,
+    "expandButton": true,
     "updateCheckerType": 2,
+    "addButton": true,
+    "mainMenuCreditsIntegration": true,
     "retroWarning": false,
     "modpackMods": []
   }
