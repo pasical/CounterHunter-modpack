@@ -1,5 +1,5 @@
 {
-  "name": "CounterHunter 1.21.4",
+  "name": "CounterHunter 1.21.4 hotfix",
   "author": "Pasicalx",
   "version": "20250403",
   "description": "",
@@ -79,7 +79,7 @@
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
-      "hash": "7217724754c1037f467b70c06554b4bb3790ddf0"
+      "hash": "d4f13c2e8a6aff8bb24528f87eacc872ac5a8629"
     },
     {
       "path": "config/fabric_loader_dependencies.json",
@@ -203,7 +203,7 @@
     },
     {
       "path": "config/modpack-update-checker/config.json",
-      "hash": "bdb5aeaf468fb1216ae5d64fe12d775dfd2a46b3"
+      "hash": "c5eb19416402cbae01bb5b76bbe313a3f21dd3ae"
     },
     {
       "path": "config/modpack-update-checker/modpack-info.txt",
@@ -434,28 +434,12 @@
       "hash": "fb9013aeb5b0e75d0afae7719d822091a0e70892"
     },
     {
-      "path": "crosshair_config.ccmcfg",
-      "hash": "01a73f879582efa5aea0fc9c9e7339d48be1ac0d"
-    },
-    {
-      "path": "crosshair_drawn.ccmpng",
-      "hash": "a1ef630abc75fa417779aa5812b57e2879258dbe"
-    },
-    {
-      "path": "fancymenu_data/last_world.fmdata",
-      "hash": "17bc663ee65a712ade2d06dcb41115d1d99ed6d9"
-    },
-    {
       "path": "hmclversion.cfg",
       "hash": "024323276470951de381972326807d166d3702bc"
     },
     {
       "path": "icon.jpg",
       "hash": "5c14db5ec2546f30e0841cb93265cc693efe691a"
-    },
-    {
-      "path": "log4j2.xml",
-      "hash": "d47d254675d1aee18670aece5ed768e1e631517b"
     },
     {
       "path": "mods/BetterGrassify-1.6.0+fabric.1.21.4.jar",
@@ -615,7 +599,7 @@
     },
     {
       "path": "mods/teamhunter-1.0-SNAPSHOT.jar",
-      "hash": "c5fd5629fe8f62f05e326e208602025f4628bbd1"
+      "hash": "adee7caf1dcaecec5262a2a72ec1745d6c6710b6"
     },
     {
       "path": "mods/watut-fabric-1.21.4-1.2.5.jar",
@@ -679,7 +663,11 @@
     },
     {
       "path": "servers.dat",
-      "hash": "57004f57f4302caa0ab8fa00dc423eb607cac18d"
+      "hash": "e4089b0f8da339fd3c3007fd49b71697ce72cbb4"
+    },
+    {
+      "path": "servers.dat_old",
+      "hash": "e4089b0f8da339fd3c3007fd49b71697ce72cbb4"
     }
   ],
   "addons": [
@@ -691,5 +679,6 @@
       "id": "fabric",
       "version": "0.16.10"
     }
-  ]
+  ],
+  "priorityModrinthDownload": true
 }
