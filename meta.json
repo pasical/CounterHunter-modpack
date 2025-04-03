@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 9,
+  "hotfixesFormat": null,
+  "versions": [
+    {
+      "id": "20250402",
+      "releasedAt": 1727575200000,
+      "promotions": {
+        "downloads": {
+          "generic": "https://github.com/pasical/CounterHunter-modpack/releases/tag/20250402"
+        }
+      },
+      "updateType": "major"
+    },
+    {
+      "id": "20250403",
+      "releasedAt": 1727576600000,
+      "promotions": {
+        "downloads": {
+          "generic": "https://github.com/pasical/CounterHunter-modpack/releases/tag/20250403"
+        }
+      },
+      "updateType": "major"
+    }
+  ]
+}
