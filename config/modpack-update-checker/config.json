@@ -4,7 +4,7 @@
   "modpackName": "CounterHunter",
   "modpackAuthor": "Pasicalx",
   "modpackReleaseType": "stable",
-  "updateCheckerId": "https://raw.githubusercontent.com/pasical/CounterHunter-modpack/tree/main/",
+  "updateCheckerId": "https://raw.githubusercontent.com/pasical/CounterHunter-modpack/refs/heads/main/",
   "advanced": {
     "bccEnabled": false,
     "expandButton": false,
