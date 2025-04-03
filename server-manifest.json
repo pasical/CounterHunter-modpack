@@ -1,7 +1,7 @@
 {
   "name": "CounterHunter 1.21.4 hotfix",
   "author": "Pasicalx",
-  "version": "20250403",
+  "version": "20250403-2",
   "description": "",
   "fileApi": "https://raw.githubusercontent.com/pasical/CounterHunter-modpack/refs/heads/main",
   "files": [
@@ -79,7 +79,7 @@
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
-      "hash": "d4f13c2e8a6aff8bb24528f87eacc872ac5a8629"
+      "hash": "bc08b68582fbf72a5fa6ee3badb21e147869a6a6"
     },
     {
       "path": "config/fabric_loader_dependencies.json",
@@ -318,12 +318,8 @@
       "hash": "8c28f59d92aacab3d3c3c541326039166fad00b7"
     },
     {
-      "path": "config/watut-client-1.toml.bak",
-      "hash": "91e098fac9ef69de88714de77c4f4e157d77e13c"
-    },
-    {
       "path": "config/watut-client.toml",
-      "hash": "a548ff860a1bec8ddd49421c34f0b89c02e63742"
+      "hash": "5e5b7a40ed80f84926e0882b10fb65216a06b425"
     },
     {
       "path": "config/watut-common.toml",
@@ -335,7 +331,7 @@
     },
     {
       "path": "config/watut-server.toml",
-      "hash": "4bd40ac86d55cbf055d0075ccbe7388171723ae3"
+      "hash": "2ba908b59d3e4ad8080ee111cce4178e691c6b4b"
     },
     {
       "path": "config/yacl.json5",
@@ -664,10 +660,6 @@
     {
       "path": "servers.dat",
       "hash": "e4089b0f8da339fd3c3007fd49b71697ce72cbb4"
-    },
-    {
-      "path": "servers.dat_old",
-      "hash": "e4089b0f8da339fd3c3007fd49b71697ce72cbb4"
     }
   ],
   "addons": [
@@ -679,6 +671,5 @@
       "id": "fabric",
       "version": "0.16.10"
     }
-  ],
-  "priorityModrinthDownload": true
+  ]
 }
